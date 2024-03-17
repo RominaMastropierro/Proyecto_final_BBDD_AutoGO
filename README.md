@@ -1,4 +1,5 @@
 # Proyecto_final_BBDD_AutoGO
+---> MySQL Workbench 8.0 CE                  
 Base de datos de AutoGO - Proyecto integrador final -   CTD Digital house MZO 2024                                                                                                                                                                                                   
                                                                                                                                                 
                    ##########,                                                                                                                  
